@@ -15,7 +15,7 @@ git clone  https://github.com/Blacksujit/krishna_enterprise.git
 ```
 
 
-#  webiste link:
+#  website link:
 
 
 
