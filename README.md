@@ -19,6 +19,6 @@ git clone  https://github.com/Blacksujit/krishna_enterprise.git
 
 
 
- https://blacksujit.github.io/krishna_enterprise/
+ https://blacksujit.github.io/krishna_enterprise1/
 
  
